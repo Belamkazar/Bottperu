@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 08 Jul 2023 04:33:39 at https://app.z1.pe +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://app.z1.pe -O1 "C:\Users\PC\Desktop\bang\kjkj" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:33:40	Error: 	"Internal Server Error" (500) after 2 retries at link https://app.z1.pe/robots.txt (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 10 seconds : 1129 links scanned, 1128 files written (28809075 bytes overall) [26226119 bytes received at 47683 bytes/sec], 3731561 bytes transferred using HTTP compression in 58 files, ratio 21%, 59.8 requests per connection
+(1 errors, 0 warnings, 0 messages)

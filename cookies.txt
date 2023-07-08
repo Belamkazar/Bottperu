@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+app.z1.pe	TRUE	/	FALSE	1999999999	stackpost_session	oud0k3qv3gllrvpnb8474brif2pn41p5
+app.z1.pe	TRUE	/	FALSE	1999999999	csrf_cookie	6f80e2d63cf481b81adb80ac197c21d3
+app.z1.pe	TRUE	/	FALSE	1999999999	uid	deleted
+app.z1.pe	TRUE	/	FALSE	1999999999	team_id	deleted
+app.z1.pe	TRUE	/	FALSE	1999999999	SameSite	Lax
+
